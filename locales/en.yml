@@ -13,6 +13,7 @@ enlistedDate: Enlisted {date}
 exploreCurrentWeapons: Explore current weapons, stats and attachments
 favouriteWeapons: Favourite weapons
 followOnTwitter: Follow on Twitter
+getBattlebit: Get BattleBit
 goBack: Go back
 home: Home
 interactiveMaps: Interactive maps
@@ -33,7 +34,6 @@ pageWorkingInProgress: This page is a work in progress pending more data collect
 playerStats: Player stats
 prestige: Prestige
 rank: Rank
-requestAccess: Request access
 returnToCombatArea: Return to the combat area
 siteCreatedBy: 'Site created by '
 siteNotAffiliatedWith: This site is not affiliated with OkiStudio
